@@ -1,0 +1,183 @@
+{
+    "items": [
+        {"id":1,"ItemName" :"Apple","price":100,"brand":"","categoryId":0},
+        
+        {"id":2,"ItemName" :"Banana","price":350,"brand":"","categoryId":0},
+        
+        {"id":3,"ItemName" :"Coconut","price":200,"brand":"","categoryId":0},
+        
+        {"id":4,"ItemName" :"Pineapple","price":250,"brand":"","categoryId":0},
+        
+        {"id":5,"ItemName" :"Mango", "price":50,"brand": "","categoryId":0},
+        
+        {"id":6,"ItemName":"Grapes","price":200,"brand": "","categoryId":0},
+        
+        {"id":7,"ItemName":"Tangerine","price":100,"brand":"","categoryId":0},
+        
+        {"id":8,"ItemName":"Orange ","price":50,"brand":"","categoryId":0},
+        
+        {"id":9,"ItemName":"Papaya","price":200,"brand":"","categoryId":0},
+        
+        {"id":10,"ItemName":"Cucumber ","price":100,"brand":"","categoryId":0},
+        
+        {"id":11,"ItemName":"Cashew","price":100,"brand":"","categoryId":0},
+        
+        {"id":12,"ItemName":"Agbalumo","price":50,"brand":"","categoryId":0},
+        
+        {"id":13,"ItemName":"Garden Eggs","price":100,"brand":"","categoryId":0},
+        
+        {"id":14,"ItemName":"Water Melon","price":800,"brand":"","categoryId":0},
+        
+        {"id":15,"ItemName":"Lime","price":100,"brand":"","categoryId":0},
+        
+        {"id":16,"ItemName":"Lemon","price":150,"brand":"","categoryId":0},
+        
+        {"id":17,"ItemName":"Guava","price":50,"brand":"","categoryId":0},
+        
+        {"id":18,"ItemName":"Avocado","price":200,"brand":"","categoryId":0},
+        
+        {"id":19,"ItemName":"Pear","price":200,"brand":"","categoryId":0},
+
+		{"id":20,"ItemName":"Salt", "price": "700","brand" : " ", "categoryId" : 2}, 
+
+		{"id":21,"ItemName":"Thyme", "price": "500","brand" : "Lion", "categoryId" : 2}, 
+
+		{"id":22,"ItemName":"Thyme", "price": "600","brand" : "Ducros", "categoryId" : 2}, 
+
+		{"id":23,"ItemName":"Thyme", "price": "800","brand" : "Supreme Spice", "categoryId" : 2}, 
+
+		{"id":24,"ItemName":"Curry", "price": "300","brand" : "Lion", "categoryId" : 2}, 
+
+		{"id":25,"ItemName":"Curry", "price": "500","brand" : "Ducros", "categoryId" : 2}, 
+
+		{"id":26,"ItemName":"Curry", "price": "800","brand" : "Supreme Spice", "categoryId" : 2}, 
+
+		{"id":27,"ItemName":"Nutmeg", "price": "1800","brand" : "Marvico Foods", "categoryId" : 2}, 
+
+		{"id":28,"ItemName":"Black Pepper", "price": "1050","brand" : "AACE Foods", "categoryId" : 2}, 
+
+		{"id":29,"ItemName":"Onion Powder", "price": "800","brand" : "Supreme Spice", "categoryId" : 2}, 
+
+		{"id":30,"ItemName":"Garlic Powder", "price": "800","brand" : "Supreme Spice", "categoryId" : 2}, 
+
+		{"id":31,"ItemName":"Seasoning Cubes", "price": "340","brand" : "Knorr", "categoryId" : 2}, 
+
+		{"id":32,"ItemName":"Seasoning Cubes", "price": "580","brand" : "Royco", "categoryId" : 2}, 
+
+		{"id":33,"ItemName":"Cinnamon Powder", "price": "1400","brand" : "AACE Foods", "categoryId" : 2}, 
+
+		{"id":34,"ItemName":"Tumeric Powder", "price": "1200","brand" : "TRS", "categoryId" : 2}, 
+
+		{"id":35,"ItemName":"Bay leaves", "price": "1000","brand" : "Marvico Foods", "categoryId" : 2}, 
+
+		{"id":36,"ItemName":"Jollof Rice Spice", "price": "800","brand" : "Supreme Spice", "categoryId" : 2}, 
+
+		{"id":37,"ItemName":"Fried Rice Spice", "price": "800","brand" : "Supreme Spice", "categoryId" : 2}, 
+
+		{"id":38,"ItemName":"Ginger Powder", "price": "1000","brand" : "Supreme Spice", "categoryId" : 2}, 
+
+		{"id":39,"ItemName":"Paprika Powder", "price": "1200","brand" : "Supreme Spice", "categoryId" : 2}, 
+
+		{"id":40,"ItemName":"Cayenne Powder", "price": "1000","brand" : "Supreme Spice", "categoryId" : 2},
+		
+		{"id":45,"ItemName":"Water", "price": "100","brand" : "Water", "categoryId" : 1}, 
+
+		{"id":46,"ItemName":"Maltina Can", "price": "200","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":47,"ItemName":"Maltina Pineapple flavour", "price": "200","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":48,"ItemName":"Amstal Malta Can", "price": "200","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":49,"ItemName":"7Up 50cl PET", "price": "150","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":50,"ItemName":"7Up 50cl Can", "price": "200","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":51,"ItemName":"Miranda Green Apple PET", "price": "150","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":52,"ItemName":"Sprite Can", "price": "200","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":53,"ItemName":"Coca-Cola Drink PET", "price": "150","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":54,"ItemName":"Coca-Cola Drink Can", "price": "200","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":55,"ItemName":"Fayrouz Premium Sparkling Soft Drink", "price": "300","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":56,"ItemName":"Chivita Real Orange", "price": "900","brand" : "Juice", "categoryId" : 1}, 
+
+		{"id":57,"ItemName":"Pepsi Drink PET", "price": "150","brand" : "Carbonated Soft Drink", "category" : "Beverages"}, 
+
+		{"id":58,"ItemName":"Pepsi Drink Can", "price": "200","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":59,"ItemName":"FreshYo Yoghurt Drink 400ml", "price": "300","brand" : "Yoghurt", "categoryId" : 1}, 
+
+		{"id":60,"ItemName":"Smoov Chapman ", "price": "150","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":61,"ItemName":"Fanta Drink PET", "price": "150","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":62,"ItemName":"Fanta Drink Can", "price": "200","brand" : "Carbonated Soft Drink", "categoryId" : 1}, 
+
+		{"id":63,"ItemName":"Chivita Active", "price": "900","brand" : "Juice", "categoryId" : 1}, 
+
+		{"id":64,"ItemName":"Wilson’s Yellow Lemonade 300ml", "price": "150","brand" : "Lemonade", "categoryId" : 1}, 
+
+		{"id":65,"ItemName":"Wilson’s  Yellow Lemonade 500ml", "price": "250","brand" : "Lemonade", "categoryId" : 1}
+    ],
+    "category": [
+        {
+            "id" : 0,
+            "name" : "Fruits"
+        },
+        {
+            "id" : 1,
+            "name" : "Beverages"
+        },
+        {
+            "id" : 2,
+            "name" : "Seasoning"
+        }
+    ],
+    "lists":[
+        {
+            "id": 1,
+            "list": [{"itemsId" : 4},{"itemsId": 6},{"itemsId":39},{"itemsId":57}],
+            "usersId": 6
+        },
+        {
+            "id": 2,
+            "list": [{"itemsId" : 3},{"itemsId": 46},{"itemsId":39},{"itemsId":57}],
+            "usersId": 4
+        },
+        {
+            "id": 1,
+            "usersId": 6,
+            "list": [{"itemsId" : 4},{"itemsId": 6},{"itemsId":39},{"itemsId":57}]
+        },
+        {
+            "id": 2,
+            "usersId": 4,
+            "list": [{"itemsId" : 3},{"itemsId": 46},{"itemsId":39},{"itemsId":57}]
+        },
+        {
+            "id": 1,
+            "usersId": 6,
+            "list": [{"itemsId" : 4},{"itemsId": 6},{"itemsId":39},{"itemsId":57}]
+        },
+        {
+            "id": 2,
+            "list": [{"itemsId" : 3},{"itemsId": 46},{"itemsId":39},{"itemsId":57}],
+            "usersId": 4
+        }
+    ],
+    "users":[
+        {
+            "id":4,
+            "name" : "Ibidapo",
+            "email" : "fatogunibidapo@gmail.com"
+        },
+        {
+            "id":6,
+            "name" : "Chuwkwufumnaya",
+            "email" : "ifeadif@gmail.com"
+        }
+    ]
+}
